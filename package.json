@@ -4,7 +4,7 @@
   "description": "",
   "main": "sketch.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --config=jest.config.js --coverage"
   },
   "author": "Vineet Parekh",
   "license": "MIT",
